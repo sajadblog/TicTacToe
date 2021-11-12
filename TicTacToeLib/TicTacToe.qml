@@ -50,7 +50,7 @@ Rectangle{
                     matchCase.push(i)
             if(internal.checkWinner(matchCase, type))    return
 
-            // diognal checker
+            // diagonal checker
             matchCase = []
             for(i = 0 ; i < internal.itemCount ; i+=internal.dimention + 1)
                 if(allItems[i].type === type)

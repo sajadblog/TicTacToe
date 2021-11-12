@@ -24,11 +24,6 @@ Window {
             horizontalAlignment : Text.AlignHCenter
             font.pixelSize: parent.height * 2 /3
         }
-        Rectangle{
-            id : seprator
-            height: parent.height
-            color: Theme.textColor
-        }
         Text {
             id: aiWinText
             property int winCount: 0
