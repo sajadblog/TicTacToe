@@ -1,0 +1,4 @@
+module              TicTacToeLib
+singleton Theme 1.0 Theme.qml
+Cell		1.0 Cell.qml
+TicTacToe	1.0 TicTacToe.qml

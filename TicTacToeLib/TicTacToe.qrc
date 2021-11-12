@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/TicTacToeLib">
+        <file>qmldir</file>
+        <file>Cell.qml</file>
+        <file>TicTacToe.qml</file>
+        <file>Theme.qml</file>
+    </qresource>
+</RCC>
